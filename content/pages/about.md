@@ -1,5 +1,4 @@
-layout: page
+Title: About Me
 slug: about
-title: About Me
 
 This is a page about me.
