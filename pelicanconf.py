@@ -28,7 +28,7 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 10
-#PATH = 'content'
+PATH = 'content'
 STATIC_PATHS = [
     'files',
     'images',
