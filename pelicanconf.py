@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-TYPOGRIFY = True
+#TYPOGRIFY = True
 
 AUTHOR = u'Roy G. Williams'
 SITENAME = u'Roy G. Williams'
@@ -20,7 +20,7 @@ LICENSE_NAME = 'GPL v3'
 LICENSE_URL = 'https://github.com/chopskxw/chopskxw.github.io/blob/master/LICENSE'
 
 THEME = "pelican-theme"
-MAIN_MENU = True
+#MAIN_MENU = True
 #PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = ['gravatar',]
 
@@ -28,7 +28,7 @@ TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 10
-PATH = 'content'
+#PATH = 'content'
 STATIC_PATHS = [
     'files',
     'images',
