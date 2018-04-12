@@ -6,7 +6,7 @@ TYPOGRIFY = True
 
 AUTHOR = u'Roy G. Williams'
 SITENAME = u'Roy G. Williams'
-#SITEURL = 'http://chopskxw.github.io'
+SITEURL = 'https://chopskxw.github.io'
 
 # lannisport settings
 SITELOGO = 'images/gravatar.jpeg'
