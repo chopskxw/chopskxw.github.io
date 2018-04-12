@@ -20,6 +20,7 @@ LICENSE_NAME = 'GPL v3'
 LICENSE_URL = 'https://github.com/chopskxw/chopskxw.github.io/blob/master/LICENSE'
 
 THEME = "pelican-theme"
+MAIN_MENU = True
 #PLUGIN_PATHS = ['pelican-plugins']
 #PLUGINS = ['gravatar',]
 
