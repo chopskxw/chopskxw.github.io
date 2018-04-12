@@ -3,11 +3,11 @@
 from __future__ import unicode_literals
 
 AUTHOR = 'Roy G. Williams'
-SITEURL = 'http://chopskxw.github.io'
+SITEURL = 'https://chopskxw.github.io'
 SITENAME = 'Roy G. Williams'
 SITETITLE = 'Roy G. Williams'
 SITESUBTITLE = 'Father, Husband, Geek, and Firefighter'
-SITELOGO = SITEURL + 'images/gravatar.jpeg'
+SITELOGO = SITEURL + '/images/gravatar.jpeg'
 
 BROWSER_COLOR = '#333'
 ROBOTS = 'index, follow'
