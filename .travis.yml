@@ -1,7 +1,7 @@
 language: python
 branches:
   only:
-  - first-theme
+  - fresh-start
 install:
 - pip install pelican ghp-import typogrify
 addons:
