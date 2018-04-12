@@ -9,7 +9,7 @@ SITENAME = u'Roy G. Williams'
 SITEURL = 'https://chopskxw.github.io'
 
 # lannisport settings
-SITELOGO = 'images/gravatar.jpeg'
+SITELOGO = 'images/me.png'
 SITETAGLINE = u'Father, Husband, Geek, and Firefighter'
 SITEDESCR = u'By day I am I am the lonely Red Hatter of Southern WV. Outside of business hours, I advocate for FOSS, play with new tech, operate amature radios, and play firefighter--sometimes they even let me teach.'
 GITHUB_URL = 'http://github.com/chopskxw'
