@@ -2,54 +2,46 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-TYPOGRIFY = True
+AUTHOR = 'Roy G. Williams'
+SITEURL = 'http://chopskxw.github.io'
+SITENAME = 'Roy G. Williams'
+SITETITLE = 'Roy G. Williams'
+SITESUBTITLE = 'Father, Husband, Geek, and Firefighter'
+SITELOGO = SITEURL + 'images/gravatar.jpeg'
 
-AUTHOR = u'Roy G. Williams'
-SITENAME = u'Roy G. Williams'
-#SITEURL = 'http://chopskxw.github.io'
+BROWSER_COLOR = '#333'
+ROBOTS = 'index, follow'
 
-# lannisport settings
-SITELOGO = 'images/gravatar.jpeg'
-SITETAGLINE = u'Father, Husband, Geek, and Firefighter'
-SITEDESCR = u'By day I am I am the lonely Red Hatter of Southern WV. Outside of business hours, I advocate for FOSS, play with new tech, operate amature radios, and play firefighter--sometimes they even let me teach.'
-GITHUB_URL = 'http://github.com/chopskxw'
-LINKEDIN_URL = 'http://linkedin.com/in/roygwilliams'
-TWITTER_URL = 'http://twitter.com/roygwilliams'
-FACEBOOK_URL = 'http://facebook.com/roygwilliams'
-LICENSE_NAME = 'GPL v3'
-LICENSE_URL = 'https://github.com/chopskxw/chopskxw.github.io/blob/master/LICENSE'
+CC_LICENSE = {
+    'name': 'Creative Commons Attribution-ShareAlike',
+    'version': '4.0',
+    'slug': 'by-sa'
+}
+
+COPYRIGHT_YEAR = 2018
+
+EXTRA_PATH_METADATA = {
+}
+
+MAIN_MENU = True
 
 THEME = "pelican-theme"
-#PLUGIN_PATHS = ['pelican-plugins']
-#PLUGINS = ['gravatar',]
+PLUGIN_PATHS = ['pelican-plugins']
+PLUGINS = ['gravatar',]
 
 TIMEZONE = 'America/New_York'
 DEFAULT_LANG = u'en'
 
 DEFAULT_PAGINATION = 10
-#PATH = 'content'
-STATIC_PATHS = [
-    'files',
-    'images',
-    'cv',
-]
+PATH = 'content'
 
-ARTICLE_URL = 'posts/{date:%Y}/{date:%m}/{slug}/'
-ARTICLE_SAVE_AS = ARTICLE_URL + 'index.html'
-
-PAGE_URL = 'pages/{slug}/'
-PAGE_SAVE_AS = PAGE_URL + 'index.html'
-
-CATEGORY_URL = 'category/{slug}/'
-CATEGORY_SAVE_AS = CATEGORY_URL + 'index.html'
-
-TAG_URL = 'tag/{slug}/'
-TAG_SAVE_AS = TAG_URL + 'index.html'
-
-ARCHIVES_URL = 'archives/'
-ARCHIVES_SAVE_AS = ARCHIVES_URL + 'index.html'
-
-CONTACT_URL = 'pages/contact/'
+# Social widget
+SOCIAL = (
+        ('twitter', 'http://twitter.com/roygwilliams'),
+        ('facebook', 'https://www.facebook.com/roygwilliams'),
+        ('linkedin', 'https://www.linkedin.com/in/roygwilliams'),
+        ('github', 'http://github.com/chopskxw'),
+    )
 
 # Feed generation is usually not desired when developing
 #FEED_ALL_ATOM = None
