@@ -2,7 +2,7 @@
 # -*- coding: utf-8 -*- #
 from __future__ import unicode_literals
 
-#TYPOGRIFY = True
+TYPOGRIFY = True
 
 AUTHOR = u'Roy G. Williams'
 SITENAME = u'Roy G. Williams'

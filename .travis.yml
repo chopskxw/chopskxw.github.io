@@ -3,7 +3,7 @@ branches:
   only:
   - first-theme
 install:
-- pip install pelican ghp-import
+- pip install pelican ghp-import typogrify
 addons:
   apt:
     packages:
