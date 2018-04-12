@@ -47,10 +47,10 @@ PATH = 'content'
 
 # Social widget
 SOCIAL = (
-        ('twitter', 'http://twitter.com/roygwilliams'),
+        ('twitter', 'https://twitter.com/roygwilliams'),
         ('facebook', 'https://www.facebook.com/roygwilliams'),
         ('linkedin', 'https://www.linkedin.com/in/roygwilliams'),
-        ('github', 'http://github.com/chopskxw'),
+        ('github', 'https://github.com/chopskxw'),
     )
 
 # Feed generation is usually not desired when developing
