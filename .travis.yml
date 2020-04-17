@@ -12,7 +12,7 @@ script:
 - make publish github
 env:
   global:
-  - GH_USER=chopskxw
-  - GH_REPO=chopskxw.github.io
+  - GH_USER=fftux
+  - GH_REPO=fftux.github.io
   - GH_BRANCH=master
   - secure: rGqFQKn17TcSvpU7lcKnO5OHKcdaPMcb20haYBDZN6qDmr5TnqL2RX/n4IKkJQmsHg5n/wyEza5bnylu8A5BXhPK7jQBD9/X3u1UrkuffI0OP4BLJJpDCTGgJei05fQE0eolFekYANaRDQUfQEv8cWXLsT/miKbwJ6WePlYvbppSqELbWHeozub95o3tIE0So6BsuQRyjdGIzMrlQrSJRRNRnaQFOGwmihCpJnXOtYHs0o2hdz7x+tNvrngnpPx0OEndGFjiFpUVetyyPocbLFr3HKjPOGPdH+OdvUMbZvCAeNvOmhRWTtTssMCzjd1wQpNL+9GFGZpppB4HyhfRQ3SmRc4GaqYp1jfmxDkOZU6sMkhlzmSfALY01dhT0Q3WuqIrnrFzhL/1qvmi9C3+omgVxNUWPuo1iQMc/hLQ7v0oKWWjZcpkWCl6nZtFb1emXE5F7m/+NGrGFeJ8eJCScZ8WNuL44O7QeNSnvOAKKmWtcINXpnKojgLufC1Mz+A6CpuDeGqBtB8ktm2b3eWwOcaGOYTYdhjPDS7VkdgG5EQHEXFhoudIJcDu0iPn7PlZLh1jHG5/vffAO+Nqt2lJf57TXFVCq6NfRfgdF7/BggaUA3uJqRdwfFXkomyhrTnCVh8JtuqamBJXXOfbRPeJ6vE9HpgeL38BwPZVuxzncTw=
