@@ -6,18 +6,18 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Roy G. Williams'
 SITENAME = u'Roy G. Williams'
-SITEURL = 'https://chopskxw.github.io'
+SITEURL = 'https://fftux.github.io'
 
 # lannisport settings
 SITELOGO = 'images/me.png'
 SITETAGLINE = u'Father, Husband, Geek, and Firefighter'
 SITEDESCR = u'By day I am I am the lonely Red Hatter of Southern WV. Outside of business hours, I advocate for FOSS, play with new tech, operate amateur radios, and play firefighter--sometimes they even let me teach.'
-GITHUB_URL = 'http://github.com/chopskxw'
+GITHUB_URL = 'http://github.com/fftux'
 LINKEDIN_URL = 'http://linkedin.com/in/roygwilliams'
 TWITTER_URL = 'http://twitter.com/roygwilliams'
 FACEBOOK_URL = 'http://facebook.com/roygwilliams'
 LICENSE_NAME = 'GPL v3'
-LICENSE_URL = 'https://github.com/chopskxw/chopskxw.github.io/blob/master/LICENSE'
+LICENSE_URL = 'https://github.com/fftux/fftux.github.io/blob/master/LICENSE'
 
 THEME = "pelican-theme"
 #MAIN_MENU = True
