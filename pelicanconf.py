@@ -6,7 +6,7 @@ from __future__ import unicode_literals
 
 AUTHOR = u'Roy G. Williams'
 SITENAME = u'Roy G. Williams'
-SITEURL = 'https://fftux.github.io'
+SITEURL = 'https://roygwilliams.com'
 
 # lannisport settings
 SITELOGO = 'images/me.png'
